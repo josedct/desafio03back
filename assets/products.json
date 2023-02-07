@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "title": "Murder on the Orient Express",
+        "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+        "price": 82.06,
+        "thumbnail": "http://dummyimage.com/200x356.png/5fa2dd/ffffff",
+        "code": "dhs572",
+        "stock": 382
+    },
+    {
+        "id": 2,
+        "title": "Indiscreet",
+        "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+        "price": 74.4,
+        "thumbnail": "http://dummyimage.com/156x286.png/5fa2dd/ffffff",
+        "code": "xxz392",
+        "stock": 125
+    },
+    {
+        "id": 3,
+        "title": "Lawnmower Man, The",
+        "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "price": 66.37,
+        "thumbnail": "http://dummyimage.com/111x335.png/5fa2dd/ffffff",
+        "code": "iam417",
+        "stock": 335
+    },
+    {
+        "id": 4,
+        "title": "producto prueba",
+        "description": "Este es un producto prueba",
+        "price": 200,
+        "thumbnail": "Sin imagen",
+        "code": "abc126",
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "title": "Benji: Off the Leash!",
+        "description": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+        "price": 62.97,
+        "thumbnail": "http://dummyimage.com/149x163.png/dddddd/000000",
+        "code": "kin267",
+        "stock": 350
+    },
+    {
+        "id": 6,
+        "title": "Princess Ka'iulani",
+        "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "price": 94.73,
+        "thumbnail": "http://dummyimage.com/105x650.png/ff4444/ffffff",
+        "code": "mvb238",
+        "stock": 383
+    },
+    {
+        "id": 7,
+        "title": "Himalaya (Himalaya - l'enfance d'un chef)",
+        "description": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. ",
+        "price": 80.23,
+        "thumbnail": "http://dummyimage.com/108x491.png/ff4444/ffffff",
+        "code": "opl463",
+        "stock": 373
+    },
+    {
+        "id": 8,
+        "title": "Story of O, The (Histoire d'O)",
+        "description": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+        "price": 82.86,
+        "thumbnail": "http://dummyimage.com/218x572.png/5fa2dd/ffffff",
+        "code": "zio279",
+        "stock": 200
+    },
+    {
+        "id": 9,
+        "title": "White Angel, The (L'angelo bianco)",
+        "description": "Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "price": 86.2,
+        "thumbnail": "http://dummyimage.com/144x236.png/5fa2dd/ffffff",
+        "code": "qms115",
+        "stock": 192
+    },
+    {
+        "id": 12,
+        "title": "Electric Horseman, The",
+        "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla ut at dolor quis odio consequat varius.",
+        "price": 85.86,
+        "thumbnail": "http://dummyimage.com/156x524.png/5fa2dd/ffffff",
+        "code": "jzy279",
+        "stock": 354
+    },
+    {
+        "id": 13,
+        "title": "They Gave Him A Gun",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "price": 64.09,
+        "thumbnail": "http://dummyimage.com/187x480.png/ff4444/ffffff",
+        "code": "gks893",
+        "stock": 496
+    }
+]
