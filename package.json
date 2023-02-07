@@ -2,7 +2,7 @@
   "name": "backend-entrega-3",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "./src/app.js",
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",

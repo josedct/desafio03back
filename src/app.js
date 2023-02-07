@@ -1,8 +1,8 @@
 const express = require( 'express' )
-const ProductManager = require( './assets/ProductManager' )
+const ProductManager = require( './ProductManager' )
 
 const app = express()
-const productTest = new ProductManager('./assets/products.json')
+const productTest = new ProductManager('./products.json')
 
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
