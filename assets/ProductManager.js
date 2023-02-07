@@ -92,7 +92,9 @@ class ProductManager{
         this.fillArray( contentFile, products )
         
         if(!this.isEmptyArray( products )){
-            console.log( products )
+            let listProducts = products.slice(0,products.length)
+            this.clearArray( products )
+            return listProducts
         }
         
     }
@@ -114,7 +116,7 @@ class ProductManager{
         if(!this.isEmptyArray( products )){
             const productFind = products.find(product => product.id === id)
             this.clearArray( products )
-            return productFind ? console.log(productFind) : console.error ("Not found")
+            return productFind ? productFind : false
         }
   
     }
@@ -207,32 +209,3 @@ class ProductManager{
 }
 
 module.exports = ProductManager
-
-/* testing class
-
-const productTest = new ProductManager('./assets/products.json')
-productTest.getProducts()
-
-productTest.getProductById(25)
-
-productTest.addProduct(
-    "producto prueba", 
-    "Este es un producto prueba",
-    200,
-    "Sin imagen",
-    "abc126",
-    25
-)
-
-productTest.updateProduct(4,
-    {
-        title:"producto prueba",
-        description:"Este es un producto prueba",
-        price:200,
-        thumbnail:"Sin imagen",
-        code:"abc126",
-        stock:25
-    }
-)
-
-productTest.deleteProduct(15)*/

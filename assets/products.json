@@ -81,7 +81,7 @@
         "stock": 192
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Electric Horseman, The",
         "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla ut at dolor quis odio consequat varius.",
         "price": 85.86,
@@ -90,7 +90,7 @@
         "stock": 354
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "They Gave Him A Gun",
         "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
         "price": 64.09,
